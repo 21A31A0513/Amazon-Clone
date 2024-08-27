@@ -5,5 +5,5 @@ Header Section: Includes a mock Amazon logo, search bar, and navigation links.
 Product Grid: A grid layout showcasing various products with placeholder images and related information.
 Footer Section: Contains links to different pages, terms of service, and contact information.
 <h3>Technologies Used</h3>
-HTML5: For structuring the content.
+HTML5: For structuring the content.<br>
 CSS3: For styling and layout design.
